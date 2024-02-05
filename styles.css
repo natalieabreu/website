@@ -21,6 +21,8 @@ body {
     /* margin-bottom: 10vh; */
 }
 
+
+
 #headshot {
     margin: auto;
     margin-top: 50px;
@@ -114,3 +116,10 @@ a:hover {
 .course-title {
     font-weight: 700;
 }
+
+
+@media only screen and (max-device-width: 500px) {
+    #wrapper{display: block; margin-left: 4vw; margin-right: 4vw;}   
+    #scroll{overflow:visible; height: auto;}
+    #picture{text-align: center;}    
+} 
