@@ -15,9 +15,10 @@ body {
 
 #wrapper{
     display: flex;
-    margin: 16vw;
-    margin-top: 25px;
-    margin-bottom: 10vh;
+    margin-left: 16vw;
+    margin-right: 16vw;
+    /* margin-top: 25px; */
+    /* margin-bottom: 10vh; */
 }
 
 #headshot {
@@ -32,21 +33,19 @@ body {
     padding-right: 30px;
 }
 
-#wrapper {
-    margin: 13vw;
-    margin-top: 25px;
-    margin-bottom: 10vh;
-}
 
-#info {
-    height: 80vh;
+
+
+#scroll {
+    height: 90vh;
     overflow: scroll;
-    border-radius: 20px;
-    background-color: whitesmoke;
+
     padding-right: 0px;
     padding: 20px;
     padding-top: 10px;
     margin-right: 30px;
+    margin-top: 0px;
+    margin-left: 30px;
     
 }
 
