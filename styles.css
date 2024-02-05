@@ -38,7 +38,7 @@ body {
     margin-bottom: 10vh;
 }
 
-#info {
+/* #info {
     height: 80vh;
     overflow: scroll;
     border-radius: 20px;
@@ -52,7 +52,7 @@ body {
 
 ::-webkit-scrollbar {
     display: none;
-}
+} */
 
 #research-interests {
     padding-top: 20px;
