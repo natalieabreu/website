@@ -29,12 +29,6 @@ body {
     border-radius: 130px;
 }
 
-#info {
-    padding-right: 30px;
-}
-
-
-
 
 #scroll {
     height: 90vh;
@@ -51,7 +45,7 @@ body {
 
 ::-webkit-scrollbar {
     display: none;
-} */
+} 
 
 #research-interests {
     padding-top: 20px;
